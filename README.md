@@ -9,7 +9,7 @@ Denise Drago, Luca Marini, Eleonora Bafile, Federica Federici, Radmila Pavlovic,
 
 The input tables can be obtained from the Zenodo repository:
 
-https://doi.org/10.5281/zenodo.19251430
+https://doi.org/10.5281/zenodo.20444054
 
 
 
